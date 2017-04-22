@@ -1,15 +1,18 @@
 ---
-title: API Reference
+title: Scripts || Reference[s]
 
 language_tabs:
-  - shell
-  - ruby
+  - .js
+  - r
   - python
-  - javascript
+  - ruby
+  - GS
+  - regex
+  
 
 toc_footers:
-  - <a href='#'>Sign Up for a Developer Key</a>
-  - <a href='https://github.com/tripit/slate'>Documentation Powered by Slate</a>
+  - <a href='https://code.cnb.io/'>{development repo.git}</a>
+  - <a href='https://github.com/lord/slate'>[base via. slate]</a>
 
 includes:
   - errors
@@ -17,15 +20,15 @@ includes:
 search: true
 ---
 
-# Introduction
+# What it is:
 
 Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
 
 We have language bindings in Shell, Ruby, and Python! You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.
 
-This example API documentation page was created with [Slate](https://github.com/tripit/slate). Feel free to edit it and use it as a base for your own API's documentation.
+This example API documentation page was created with [Slate](https://github.com/lord/slate). Feel free to edit it and use it as a base for your own API's documentation.
 
-# Authentication
+# Other sh!t:
 
 > To authorize, use this code:
 
